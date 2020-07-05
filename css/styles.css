@@ -146,6 +146,13 @@ a:visited {
 
 #mat-balez-card {
 }
+#hrudesh-lenka-cover {
+ background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu-cover.jpg");
+}
+
+#hrudesh-lenka-card {
+ background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
+}
 
 #mathieu-balez-cover {
  background-image: url("https://learn-verified.s3.amazonaws.com/mathieu-balez-cover.jpeg");
